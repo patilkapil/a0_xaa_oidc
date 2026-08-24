@@ -1,0 +1,4 @@
+flask
+python-jose[cryptography]
+requests
+python-dotenv

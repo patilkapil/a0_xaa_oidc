@@ -1,0 +1,20 @@
+# Credentials — never commit
+.env
+
+# Personal/local files
+templates/guide.html
+templates/report.html
+Okta_Autho_Setup/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Claude project memory
+.claude/
